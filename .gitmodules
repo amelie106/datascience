@@ -1,0 +1,3 @@
+[submodule "chord_progression/lib/chordparser"]
+	path = chord_progression/lib/chordparser
+	url = https://github.com/titus-ong/chordparser
